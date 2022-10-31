@@ -16,4 +16,7 @@ public class Calculator {
     public int sub() {
         return first - second;
     }
+    public int reverseSub() {
+        return second - first;
+    }
 }
